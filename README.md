@@ -1,19 +1,20 @@
 Blog
 ========
 
-[通过Github 订阅此博客](https://github.com/onface/blog/issues/15)
+### 订阅
+点击本页面右上角的 Watch 在弹出框中点击 Watching 订阅本博客，这样本博客的所有文章更新和评论都会在github首页出现。
 
 ## Posts
 
 ### Redis
 
-- [分布式Redis深度历险-复制](hhttps://github.com/farmerjohngit/myblog/issues/1)
-- [分布式Redis深度历险-Sentinel](hhttps://github.com/farmerjohngit/myblog/issues/2)
-- [分布式Redis深度历险-Clustor](hhttps://github.com/farmerjohngit/myblog/issues/5)
+- [分布式Redis深度历险-复制](https://github.com/farmerjohngit/myblog/issues/1)
+- [分布式Redis深度历险-Sentinel](https://github.com/farmerjohngit/myblog/issues/2)
+- [分布式Redis深度历险-Clustor](https://github.com/farmerjohngit/myblog/issues/5)
 
 ### 多线程
 
-- [关于同步的一点思考-上]https://github.com/farmerjohngit/myblog/issues/6)
+- [关于同步的一点思考-上](https://github.com/farmerjohngit/myblog/issues/6)
 
 ### HBase
 
