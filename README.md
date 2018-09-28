@@ -15,6 +15,7 @@ Blog
 ### 多线程
 
 - [关于同步的一点思考-上](https://github.com/farmerjohngit/myblog/issues/6)
+- [关于同步的一点思考-下](https://github.com/farmerjohngit/myblog/issues/7)
 
 ### HBase
 
