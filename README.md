@@ -16,6 +16,7 @@ Blog
 
 - [关于同步的一点思考-上](https://github.com/farmerjohngit/myblog/issues/6)
 - [关于同步的一点思考-下](https://github.com/farmerjohngit/myblog/issues/7)
+- [linux内核级同步机制--futex](https://github.com/farmerjohngit/myblog/issues/8) 
 
 ### HBase
 
