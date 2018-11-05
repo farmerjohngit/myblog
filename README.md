@@ -19,6 +19,10 @@ Blog
 - [linux内核级同步机制--futex](https://github.com/farmerjohngit/myblog/issues/8) 
 - [读写一致性的一些思考](https://github.com/farmerjohngit/myblog/issues/9)
 
+### Java基础
+
+- [Java引用类型原理剖析](https://github.com/farmerjohngit/myblog/issues/10)
+
 ### HBase
 
 - [HBase PageFilter踩坑之旅](https://github.com/farmerjohngit/myblog/issues/4)
