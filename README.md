@@ -18,6 +18,8 @@ Blog
 - [关于同步的一点思考-下](https://github.com/farmerjohngit/myblog/issues/7)
 - [linux内核级同步机制--futex](https://github.com/farmerjohngit/myblog/issues/8) 
 - [读写一致性的一些思考](https://github.com/farmerjohngit/myblog/issues/9)
+- [死磕Synchronized底层实现--概论](https://github.com/farmerjohngit/myblog/issues/12)
+- [死磕Synchronized底层实现--偏向锁](https://github.com/farmerjohngit/myblog/issues/13)
 
 ### Java基础
 
