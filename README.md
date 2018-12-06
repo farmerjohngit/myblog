@@ -20,6 +20,8 @@ Blog
 - [读写一致性的一些思考](https://github.com/farmerjohngit/myblog/issues/9)
 - [死磕Synchronized底层实现--概论](https://github.com/farmerjohngit/myblog/issues/12)
 - [死磕Synchronized底层实现--偏向锁](https://github.com/farmerjohngit/myblog/issues/13)
+- [死磕Synchronized底层实现--轻量级锁](https://github.com/farmerjohngit/myblog/issues/14)
+- [死磕Synchronized底层实现--重量级锁](https://github.com/farmerjohngit/myblog/issues/15)
 
 ### Java基础
 
