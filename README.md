@@ -27,6 +27,14 @@ Blog
 
 - [Java引用类型原理剖析](https://github.com/farmerjohngit/myblog/issues/10)
 
+### 后端
+
+- [Spring Boot @EnableAutoConfiguration解析](https://github.com/farmerjohngit/myblog/issues/17)
+- [来谈谈限流-从概念到实现](https://github.com/farmerjohngit/myblog/issues/18)
+
+### Kafka
+- [Kafka Network层解析](https://github.com/farmerjohngit/myblog/issues/16)
+
 ### HBase
 
 - [HBase PageFilter踩坑之旅](https://github.com/farmerjohngit/myblog/issues/4)
