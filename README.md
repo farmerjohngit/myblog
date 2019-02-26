@@ -48,5 +48,4 @@ Blog
  
 
 ## 关于作者
-- [个人博客](http://www.farmerjohn.top/)
 - 邮箱：farmercoding@163.com
