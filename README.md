@@ -45,7 +45,8 @@ Blog
 - [HBase PageFilter踩坑之旅](https://github.com/farmerjohngit/myblog/issues/4)
 - [HBase Rpc返回数据之谜](http://www.farmerjohn.top/2018/01/04/hbase-rpc-count/)
 
- 
+### 其他
+- [拿下阿里、头条、滴滴的offer后谈谈面试经验（上）](https://github.com/farmerjohngit/myblog/issues/21)
 
 ## 关于作者
 - 邮箱：farmercoding@163.com
