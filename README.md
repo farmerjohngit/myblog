@@ -4,6 +4,15 @@ Blog
 ### 订阅
 点击本页面右上角的 Watch 在弹出框中点击 Watching 订阅本博客，这样本博客的所有文章更新和评论都会在github首页出现。
 
+
+公众号（刚申请，之后文章会往上面发）：
+
+
+
+![](https://user-gold-cdn.xitu.io/2019/3/18/1698e410bc0a5c37?w=258&h=258&f=jpeg&s=27618)
+
+
+
 ## Posts
 
 ### Redis
