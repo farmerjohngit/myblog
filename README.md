@@ -19,7 +19,7 @@ Blog
 
 - [分布式Redis深度历险-复制](https://github.com/farmerjohngit/myblog/issues/1)
 - [分布式Redis深度历险-Sentinel](https://github.com/farmerjohngit/myblog/issues/2)
-- [分布式Redis深度历险-Clustor](https://github.com/farmerjohngit/myblog/issues/5)
+- [分布式Redis深度历险-Cluster](https://github.com/farmerjohngit/myblog/issues/5)
 
 ### 多线程
 
